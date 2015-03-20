@@ -10,3 +10,9 @@ github_username:  "wianvos"
 
 # Build settings
 markdown: kramdown
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-61029918-1'
+  getclicky :
+    site_id :

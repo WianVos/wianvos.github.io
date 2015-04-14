@@ -11,7 +11,7 @@ Now i'm not really going to go into the inner workings of Xl-Release because the
 
 Firts-off where gonna install the module. Now i've published the module on the [puppetlabs forge](https://forge.puppetlabs.com/xebialabs/xlrelease) under the Xebialabs acount but ofcourse it is also available on [Github](https://github.com/xebialabs/puppet-xlrelease). Now if u are going to use the module i would recommend you always use the one on github because that is going to be the latest and greatest ... or not (suite yourself).
 
-Now installing the module form the forge is fairly simple, just do: 
+Now installing the module from the forge is fairly simple, just do: 
 
 ```
 puppet module install xebialabs-xlrelease
@@ -99,6 +99,7 @@ Now this module does more than described here but it's fairly well documented on
 
 Also the module is not done yet, there will be new features added in the near future. 
 Obvious stuff that is missing and will be added soon:
+
 * Ldap integration
 * Plugin installation
 * Repo to database integration

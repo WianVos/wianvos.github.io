@@ -2,7 +2,7 @@
 layout: post
 title:  "How to setup Xebialabs Xl-Release using puppet"
 date:   2015-04-15 14:14:00
-categories: Puppet Xl-Release
+categories: Puppet Xl-Release tech
 ---
 I finally got arount to finishing my puppet module for xebialabs Xl-Release. 
 And now it's time to share and do a little blogumentation :-)
